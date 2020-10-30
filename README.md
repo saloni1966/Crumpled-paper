@@ -1,2 +1,1 @@
-# Crumpled-paper
-P- 24
+# CrumpledPaper
